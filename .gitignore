@@ -1,0 +1,14 @@
+
+# Python
+__pycache__/
+__init__.py
+
+# Virtual environments
+venv/
+
+
+
+
+
+
+
